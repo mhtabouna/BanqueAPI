@@ -1,2 +1,2 @@
 # BanqueAPI
-##Consulter les branche pour voir le code
+##Consultez les branches pour voir le code
